@@ -60,11 +60,7 @@ The presence of these widgets does not establish model performance; rerun the wo
 - Predictions and feature associations do not establish causal relationships.
 - This workflow is an educational project, not a deployed lending decision system.
 
-## Data attribution
-
-Before public redistribution, add the original dataset source, citation and licence. The supplied files alone do not establish redistribution permission.
 
 ## Author
 
 **Vaibhav Mishra**  
-MSc Digital Finance & AI, Loughborough University London
