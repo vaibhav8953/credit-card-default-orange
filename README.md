@@ -60,6 +60,22 @@ The presence of these widgets does not establish model performance; rerun the wo
 - Predictions and feature associations do not establish causal relationships.
 - This workflow is an educational project, not a deployed lending decision system.
 
+## Data source and licence
+
+This project uses the Default of Credit Card Clients dataset
+by I-Cheng Yeh, available from the UCI Machine Learning Repository.
+
+Source: https://doi.org/10.24432/C55S3H
+
+Dataset licence: Creative Commons Attribution 4.0 International
+(CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+The dataset is provided here in CSV format for use with Orange.
+
+Citation: Yeh, I. (2009). Default of Credit Card Clients [Dataset].
+UCI Machine Learning Repository.
+https://doi.org/10.24432/C55S3H
 
 ## Author
 
